@@ -15,4 +15,4 @@ loader.load(Catzinha.cmd, "./Comandos/")
 
 Catzinha.variables({
   "variavel_1": "valor_da_variavel"
-})
+})//
