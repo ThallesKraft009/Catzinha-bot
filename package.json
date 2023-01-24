@@ -1,0 +1,20 @@
+{
+  "name": "Catzinha Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "catzinha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "@types/node": "^18.0.6",
+    "aoi.js": "^6.0.0",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.37.29",
+    "node-fetch": "^3.2.6"
+  }
+}
